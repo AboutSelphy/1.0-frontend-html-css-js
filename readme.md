@@ -18,6 +18,7 @@ Welcome to **Part 1.0** of my structured web development relearning journey. Thi
 ## 📁 Structure
 ```
 
+```
 /
 ├── index.html
 ├── /css
@@ -26,6 +27,7 @@ Welcome to **Part 1.0** of my structured web development relearning journey. Thi
 ├── /js
 │ └── main.js
 └── /assets
+```
 
 ```
 
